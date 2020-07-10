@@ -3,7 +3,7 @@ function connect_to_database()
 {
     $servername ="localhost";
     $username = "root";
-    $password = "";
+    $password = "root";
     $databasename = "testbase1";
 
 try 
